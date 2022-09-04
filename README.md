@@ -1,4 +1,4 @@
-# HTML_CSS_TeamMembers 
+# HTML_CSS_House-Design
 
 
 ## Description
@@ -6,7 +6,7 @@ Project aims to create team members within html and css.
 
   Project Name       |Libraries and Technologies I use     |How does my project look   
 :-------------------------|-------------------------|-------------------------
-[TeamMembers](https://muharremgem.github.io/HTML_CSS_TeamMembers/)| Html Css  |![crewin](./images/team_members1.gif)
+[House-Design](https://mucahitkarakus.github.io/HTML_CSS_House/)| Html Css  |![crewin](./images/team_members1.gif)
 
 
 ## Problem Statement
@@ -35,9 +35,9 @@ Functionally create a Team members as in the image above
 
 ### At the end of the project, following topics are to be covered;
 
-- HTML Forms-Input Types 
+- HTML Nav Types 
 
-- HTML Form Elements
+- HTML Button Elements
 
 - CSS Colors-Border Properties
 
@@ -86,10 +86,6 @@ Functionally create a Team members as in the image above
 ## Notes
 
 - You can use HTML,and CSS to complete this project.
-
-## Resources
-
--  [Background Image Url](./background_image.jpg)
 
 
 <center> &#8987; Happy Coding  &#9997; </center>
